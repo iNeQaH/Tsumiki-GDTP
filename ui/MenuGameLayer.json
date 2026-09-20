@@ -1,0 +1,28 @@
+{
+    "children": {
+        "all": {
+            "attributes": {
+                "visible": false
+            }
+        },
+        "new": [
+            {
+                "type": "CCSprite",
+                "id": "background-player",
+                "attributes": {
+                    "sprite": "menu-background.png",
+                    "scale": {
+                        "fit": {
+                            "relative": "screen"
+                        }
+                    },
+                    "position": {
+                        "anchor": "center",
+                        "x": 0,
+                        "y": 0
+                    }
+                }
+            }
+        ]
+    }
+}
